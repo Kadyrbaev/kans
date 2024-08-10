@@ -5,7 +5,9 @@ const Header = () => {
     <HeaderStyle>
       <div className="logo-container">
           <h1>Kalem</h1>
-          <WhatsappIcon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" alt="" />
+          <a href="https://api.whatsapp.com/send/?phone=996990704008&text&type=phone_number&app_absent=0">
+            <WhatsappIcon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" alt="" />
+          </a>
       </div>
       <div className="search-container">
         <div className="burger-menu"></div>
