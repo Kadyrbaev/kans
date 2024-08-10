@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kans/static/css/main.02fad1fb.css",
-    "main.js": "/kans/static/js/main.804ab705.js",
+    "main.js": "/kans/static/js/main.ada74e24.js",
     "index.html": "/kans/index.html",
     "main.02fad1fb.css.map": "/kans/static/css/main.02fad1fb.css.map",
-    "main.804ab705.js.map": "/kans/static/js/main.804ab705.js.map"
+    "main.ada74e24.js.map": "/kans/static/js/main.ada74e24.js.map"
   },
   "entrypoints": [
     "static/css/main.02fad1fb.css",
-    "static/js/main.804ab705.js"
+    "static/js/main.ada74e24.js"
   ]
 }
